@@ -1,8 +1,6 @@
 <h1>NSFW Image Analysis Middleware</h1>
 
 
- ### [Live Project](https://c964imagemirrors.z5.web.core.windows.net/)
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>
  
